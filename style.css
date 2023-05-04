@@ -1,0 +1,226 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.barre {
+  display: flex;
+  background-color: #F6F6F6;
+  height: 120px;
+  width: 100%;
+  gap: 40px;
+  justify-content: center;
+
+
+}
+
+.logo {
+
+  display: flex;
+  /* margin-left: 0px; */
+  width: 75px;
+  height: 50px;
+  margin-top: 20px;
+
+
+
+}
+
+.slogan {
+  /* display: flex; */
+  font-size: x-large;
+  margin-top: 20px;
+  margin-left: 200px;
+
+
+}
+
+.recherche {
+  display: flex;
+  width: 140px;
+  height: 40px;
+  background-color: #FFFFFF;
+  border-radius: 40px;
+  margin-top: 20px;
+  margin-left: 240px;
+}
+
+.button {
+  display: flex;
+  width: 75px;
+  height: 40px;
+  background-color: #33AAE0;
+  border-radius: 40px;
+  text-align: center;
+  margin-left: 50%;
+}
+
+a {
+  display: flex;
+  justify-content: center;
+  /* gap: 40px; */
+  margin-top: 50px;
+  width: 100%;
+  height: 100px;
+  /* text-decoration: none; */
+}
+
+.titres {
+  display: flex;
+  /* text-decoration: none;  */
+  gap: 20px;
+}
+
+/* .header{
+display: flex ;
+flex-direction: column: pour gerer l'alignement des elements enfants d'un meme elements parent
+gap:-20px;
+
+ } */
+.carousel {
+  margin-top: -75px;
+
+
+}
+.presentation{
+  display: flex;
+  width: 100%;
+  height: 500px;
+  background-color:white;
+  justify-content: center;
+  padding-top: 15px;
+}
+.presentaton{
+  display: flex;
+  width: 200px;
+  height: 40px;
+  background-color:#79B832;
+  justify-content: center;
+  
+ }
+ .carre{
+  background-color: #FFE4FF;
+  height: 200px;
+  gap: 30px;
+ }
+ .image_carte{
+  display: flex;
+  justify-content: center;
+ 
+ }
+ .imageCarte{
+ margin-top: 15px;
+ }
+ .imagetexte{
+  display: flex;
+  padding-top: 30px;
+gap: 200px;
+justify-content: center;
+ }
+ 
+.formations{
+  display: flex;
+  width: 100%;
+  height: 500px;
+  background-color: #D2CBB0;
+}
+.raisons{
+  width: 60%;
+  height: 200px;
+  font-size: large;
+  background-color: #F6EF0F;
+  gap: 20px;
+  justify-content: center;
+}
+.imageformation{
+  display: flex;
+  gap: 20px;
+}
+.bénéficiaires{
+  display: flex;
+  width: 100%;
+  height: 1000px;
+  background-color: #FFFFFF;
+}
+.pays_beneficiaires{
+  display: flex;
+  justify-content: center;
+  width: 70%;
+  height: 500px;
+  background-color: #FFE4FF;
+}
+.temoignages{
+  display: flex;
+  justify-content: center;
+  width: 70%;
+  height: 500px;
+  background-color:#D2CBB0;
+}
+.contacts{
+  display: flex;
+  width: 100%;
+  height: 700px;
+  background-color:#FFFFFF;
+  border-color: #2985E1;
+  border-style: solid;
+  padding-top: 140px;
+}
+.formulaire{
+  display: flex;
+  width: 60%;
+  height: 300px;
+  background-color:#BCB7B7;
+
+}
+input{
+  width: 250px;
+  height: 30px;
+  /* margin-top: 500px;
+
+  margin-left: 100px; */
+}
+
+
+
+
+/* .card{
+    display: flex;
+    width: 400px;
+    height: 400px;
+    background-color: #FFE4FF;
+justify-content: center;
+ } */
+.logimage {
+  width: 100%;
+  height: 100%;
+  background-color: red;
+  border-radius: 100%;
+  /* display: block; */
+}
+
+
+
+
+.footbar {
+  display: flex;
+  width: 100%;
+  height: 100px;
+  background-color: #F5EFEF;
+  gap: 300px;
+}
+
+.endbar {
+  display: flex;
+  width: 100%;
+  height: 20px;
+  background-color: #0F0D0D;
+  justify-content: center;
+  color: #F6F6F6;
+}
+
+.service {
+  display: flex;
+  text-align: justify;
+
+
+}
